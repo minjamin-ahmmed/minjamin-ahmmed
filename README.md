@@ -19,72 +19,41 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"
-            alt="arduino" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-        rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-            alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> <a href="https://www.djangoproject.com/" target="_blank"
-        rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40"
-            height="40" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
-            height="40" /> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
-        href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-        target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-            width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> <a href="https://www.mathworks.com/" target="_blank"
-        rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab"
-            width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a> <a href="https://www.oracle.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-            alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
-    </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a> <a href="https://reactnative.dev/" target="_blank"
-        rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"
-            height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-            height="40" /> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
-            height="40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"
+        alt="HTML" width="40" height="40" />
+
+   <a> <img src="https://w7.pngwing.com/pngs/224/77/png-transparent-website-web-internet-css-style-css3-technology-social-media-logos-i-flat-colorful-icon-thumbnail.png"
+        alt="CSS" width="40" height="40" /> </a>
+
+ <img src=https://banner2.cleanpng.com/20180810/biz/3efdae17d419cdcf3886d344b989ea45.webp alt=javascript width="40"
+        height="40" />
+
+
+<img src=https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png alt="Tailwind"
+        width="40" height="40" />
+
+<img src=https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-4-pack-icons-282599.png?f=webp&w=256
+        alt="React" width="40" height="40" />
+
+
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="React" width="40" height="40" />
+
+<img src=https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo-thumbnail.png alt="Firebase"
+        width="40" height="40" />
+
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2FxewnlAE2UvdK55PbfDll7sgc9Vqgb2j-g&s alt="Node Js"
+        width="40" height="40" />
+
+
+<img src=https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png
+        alt="Express Js" width="40" height="40" />
+
+<img src=https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon-thumbnail.png
+        alt="MongoDB" width="40" height="40" />
+
+
+
+
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minjamin-ahmmed&show_icons=true&locale=en&layout=compact" alt="minjamin-ahmmed" /></p>
