@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **minjamin58@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iPkuXz2hAsUjiahTFpdGSBkiRiao1YGk/view?usp=sharing](https://drive.google.com/file/d/1iPkuXz2hAsUjiahTFpdGSBkiRiao1YGk/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1FO14FdnjOxfwwAboPJUgNCpa2LhqBJ-N/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
