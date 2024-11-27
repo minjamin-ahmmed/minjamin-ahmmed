@@ -13,7 +13,7 @@ I am a **Web Developer** and **MERN Stack Enthusiast**, passionate about buildin
 
 ## 🌟 About Me  
 
-<img src="https://user-images.githubusercontent.com/your-username/about-me-image.png" alt="About Me" width="350" align="right">  
+<img src="https://i.ibb.co.com/BNxK362/1686075264316.png" alt="About Me" width="350" align="right">  
 
 - 🔭 **Current Focus**:  
   Creating responsive, dynamic, and scalable web apps using **React.js**, **Node.js**, and **MongoDB**.  
