@@ -1,15 +1,19 @@
-# 👋 Hi, I'm Minjamin Ahmmed Sheefat!
+# 👋 Hi, I'm Minjamin Ahmmed Sheefat!  
+
+![Header](https://user-images.githubusercontent.com/your-username/header-image.png) <!-- Replace with your own header image -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sheefat&color=brightgreen)  
 ![GitHub Followers](https://img.shields.io/github/followers/Sheefat?style=social)  
 ![Top Langs](https://img.shields.io/github/languages/top/Sheefat/your-repo-name?color=blue)  
 
 Welcome to my GitHub! 🚀  
-I am a **Web Developer** and **MERN Stack Enthusiast**, passionate about building modern, user-centric applications.
+I am a **Web Developer** and **MERN Stack Enthusiast**, passionate about building modern, user-centric applications.  
 
 ---
 
-## 🌟 About Me
+## 🌟 About Me  
+
+<img src="https://user-images.githubusercontent.com/your-username/about-me-image.png" alt="About Me" width="350" align="right">  
 
 - 🔭 **Current Focus**:  
   Creating responsive, dynamic, and scalable web apps using **React.js**, **Node.js**, and **MongoDB**.  
@@ -23,43 +27,67 @@ I am a **Web Developer** and **MERN Stack Enthusiast**, passionate about buildin
 
 ---
 
-## 🛠️ My Skills
+## 🛠️ My Skills  
 
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+### Frontend  
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Skills" />  
+</div>  
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+### Backend  
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills" />  
+</div>  
 
-### Tools & Platforms
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sheefat&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheefat&layout=compact&theme=radical)
+### Tools & Platforms  
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,git" alt="Tools & Platforms" />  
+</div>  
 
 ---
 
-## 🔗 Let's Connect!
+## 📊 GitHub Stats  
 
-- 🌐 [Portfolio](#) *(Coming soon!)*  
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Sheefat&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />  
+  <br />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheefat&layout=compact&theme=radical" alt="Top Languages" />  
+</div>  
+
+---
+
+## 🖼️ Recent Projects  
+
+### 🐾 **Pet Adoption & Care**  
+A platform connecting pets with loving adopters.  
+<div align="center">  
+  <img src="https://user-images.githubusercontent.com/your-username/pet-adoption-screenshot.png" alt="Pet Adoption & Care" width="70%">  
+</div>  
+
+### 📈 **Career Council Website**  
+Helping users discover the right career paths.  
+<div align="center">  
+  <img src="https://user-images.githubusercontent.com/your-username/career-council-screenshot.png" alt="Career Council Website" width="70%">  
+</div>  
+
+---
+
+## 🔗 Let's Connect!  
+
+- 🌐 [Portfolio](https://minjamin-ahmmed.netlify.app)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/minjamin-ahmmed-sheefat/)  
-- 📧 Email: [sheefat@example.com](mailto:sheefat@example.com)
+- 📧 Email: [minjamin58@gmail.com](mailto:minjamin58@gmail.com)  
 
 ---
 
-## ✨ Fun Fact
+## ✨ Fun Fact  
 
-I am currently working on creating a **Career Council Website** and a **Pet Adoption Platform**, aiming to make life easier for users while mastering API integrations and Firebase authentication!
+I am currently working on creating a **Career Council Website** and a **Pet Adoption Platform**, aiming to make life easier for users while mastering API integrations and Firebase authentication!  
 
-⭐️ Don't forget to **follow me** for updates on my latest projects!
+⭐️ Don't forget to **follow me** for updates on my latest projects!  
+
+---
+
+<div align="center">  
+  <img src="https://raw.githubusercontent.com/khalby786/khalby786/master/gifs/dino.gif" alt="Fun GIF" width="250" />  
+</div>  
