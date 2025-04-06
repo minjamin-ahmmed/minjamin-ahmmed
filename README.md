@@ -8,14 +8,36 @@
 
 ### A JavaScript Web App Developer.
 
-##### Hey there! I’m Minjamin Ahmmed Sheefat, a passionate Full-Stack Developer focused on building clean, efficient, scalable web apps.
-I specialize in Backend with Node.js and Frontend with React.js, backed by 1 year of solid experience working with Node.js, Express.js, MongoDB, React.js and other modern web technologies.
+## 👋 Hey there, I’m Minjamin Ahmmed Sheefat!
 
-Feel free to explore — hope you vibe with my work!
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://i.ibb.co.com/2Yqsj8jW/cover.png" alt="Banner" />
+</p>
 
+### ⚡ Full-Stack JavaScript Developer | React & Node.js Specialist
+I'm a passionate dev who builds clean, scalable, full-stack web apps using modern JS tools like **React**, **Next.js**, **Node**, and **MongoDB**.
 
-  <img width="845" src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,nextjs,vite,git,github,tailwind,bootstrap,bash,figma,postman">
+- 🔭 1+ year of experience in crafting production-level apps
+- 🚀 Obsessed with smooth UX, performance, and maintainable code
+- 🧠 Currently diving deeper into TypeScript & system design
+
+> 💬 Let's connect and build something dope together!
+
+<h3 align="left">🛠️ Languages & Tools:</h3>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS"/></a>
+  <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/></a>
+</p>
+
 <!--   <img width="845"  src="https://streak-stats.demolab.com?user=muhammadranju&hide_border=true&border_radius=5&card_width=800&theme=dark"> -->
    <img width="845"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minjamin-ahmmed&theme=gruvbox">
   <img   width="845" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minjamin-ahmmed&theme=gruvbox" />
@@ -59,5 +81,11 @@ Feel free to explore — hope you vibe with my work!
      
 <div/>
 </div>
+
+---
+
+### 🚀 This profile is always evolving — just like my skills.
+Thanks for visiting. Stay curious, build cool stuff, and let’s keep pushing code! 💻✨
+
 
  
