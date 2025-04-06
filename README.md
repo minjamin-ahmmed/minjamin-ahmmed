@@ -37,10 +37,10 @@ Feel free to explore — hope you vibe with my work!
 ### Thanks to Visit.👍</🚀😊>
 
 ### 🔗 Connected to Me
-<div  style="display:flex; align-items: center; justify-content: center;">
+<div  >
 
 
-<p align="center">
+<p style="display:flex; align-items: center; justify-content: center;">
   <a href="https://www.linkedin.com/in/minjamin-ahmmed-sheefat/" target="_blank">
     <img alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
   </a>&nbsp;&nbsp;
