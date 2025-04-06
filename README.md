@@ -1,5 +1,8 @@
 ## Hey there!🙂, I'm Minjamin Ahmmed Sheefat.
-![I am GitHub Readme Generator's creator](https://i.ibb.co.com/2Yqsj8jW/cover.png)
+<p align="center">
+  <img src="https://i.ibb.co.com/2Yqsj8jW/cover.png" alt="Banner" />
+</p>
+
 
 ##### I'm a JavaScript Lover 😍
 
