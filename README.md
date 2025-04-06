@@ -29,9 +29,10 @@ I'm a passionate dev who builds clean, scalable, full-stack web apps using moder
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/></a>
-  <a href="https://socket.io/" target="_blank"><img src="https://skillicons.dev/icons?i=socketio" alt="Socket.IO" title="Socket.IO"/></a>
+ 
   <a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux"/></a>
   <a href="https://www.prisma.io/" target="_blank"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma"/></a>
+   <a href="https://socket.io/" target="_blank"><img src="https://skillicons.dev/icons?i=socketio" alt="Socket.IO" title="Socket.IO"/></a>
 </p>
 
 
