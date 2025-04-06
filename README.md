@@ -1,11 +1,3 @@
-## Hey there!🙂, I'm Minjamin Ahmmed Sheefat.
-<p align="center">
-  <img src="https://i.ibb.co.com/2Yqsj8jW/cover.png" alt="Banner" />
-</p>
-
-
-##### I'm a JavaScript Lover 😍
-
 ### A JavaScript Web App Developer.
 
 ## 👋 Hey there, I’m Minjamin Ahmmed Sheefat!
