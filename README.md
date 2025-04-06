@@ -17,7 +17,7 @@ Feel free to explore — hope you vibe with my work!
 
   <img width="845" src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,nextjs,vite,git,github,tailwind,bootstrap,bash,figma,postman">
 <!--   <img width="845"  src="https://streak-stats.demolab.com?user=muhammadranju&hide_border=true&border_radius=5&card_width=800&theme=dark"> -->
-   <img width="845"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minjamin-ahmmed&theme=merko">
+   <img width="845"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minjamin-ahmmed&theme=gruvbox">
   <img   width="845" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minjamin-ahmmed&theme=merko" />
   
  <p > 
