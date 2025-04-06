@@ -39,18 +39,20 @@ Feel free to explore — hope you vibe with my work!
 ### 🔗 Connected to Me
 <div  style="display:flex; align-items: center; justify-content: center;">
 
-     <a href="https://www.linkedin.com/in/minjamin-ahmmed-sheefat/">
-        <img  alt="Linkdein" width="27px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
-     </a>
 
-   <a href="https://x.com/sheefat_58">
-  <img alt="X (Twitter)" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
-</a>
-    <a href="https://www.facebook.com/minjamin.ahmmed/">
-       <img  alt="FB" width="30px" src="https://img.icons8.com/fluent/2x/facebook-new.png" />
-     </a>
-     
+<p align="center">
+  <a href="https://www.linkedin.com/in/minjamin-ahmmed-sheefat/" target="_blank">
+    <img alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  </a>&nbsp;&nbsp;
 
+  <a href="https://x.com/sheefat_58" target="_blank">
+    <img alt="X (Twitter)" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.facebook.com/minjamin.ahmmed/" target="_blank">
+    <img alt="Facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
+  </a>
+</p>
 
      
 
