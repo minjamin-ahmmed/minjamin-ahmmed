@@ -40,7 +40,7 @@ I'm a passionate dev who builds clean, scalable, full-stack web apps using moder
 <!--   <img   width="845" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minjamin-ahmmed&theme=gruvbox" /> -->
   
  <p > 
-  <img height="190"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjamin-ahmmed&layout=compact&theme=gruvbox&hide_border=true"/>
+  <img height="190"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjamin-ahmmed&layout=compact&theme=vision_friendly_dark&hide_border=true"/>
   <img height="190"   src="https://github-readme-stats.vercel.app/api?username=minjamin-ahmmed&show_icons=true&count_private=true&theme=vision_friendly_dark&hide_border=true"/>
 <!--  </p> -->
   <img  width="845" src="https://github-profile-trophy.vercel.app/?username=minjamin-ahmmed&theme=vision_friendly_dark&no-bg=true&hide_border=true" />
