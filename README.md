@@ -37,7 +37,7 @@ I'm a passionate dev who builds clean, scalable, full-stack web apps using moder
 
 <!--   <img width="845"  src="https://streak-stats.demolab.com?user=muhammadranju&hide_border=true&border_radius=5&card_width=800&theme=dark"> -->
    <img width="845"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minjamin-ahmmed&theme=gruvbox">
-  <img   width="845" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minjamin-ahmmed&theme=gruvbox" />
+<!--   <img   width="845" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minjamin-ahmmed&theme=gruvbox" /> -->
   
  <p > 
   <img height="190"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjamin-ahmmed&layout=compact&theme=gruvbox&hide_border=true"/>
