@@ -41,9 +41,9 @@ I'm a passionate dev who builds clean, scalable, full-stack web apps using moder
   
  <p > 
   <img height="190"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjamin-ahmmed&layout=compact&theme=gruvbox&hide_border=true"/>
-  <img height="190"   src="https://github-readme-stats.vercel.app/api?username=minjamin-ahmmed&show_icons=true&count_private=true&theme=gruvbox&hide_border=true"/>
+  <img height="190"   src="https://github-readme-stats.vercel.app/api?username=minjamin-ahmmed&show_icons=true&count_private=true&theme=vision_friendly_dark&hide_border=true"/>
 <!--  </p> -->
-  <img  width="845" src="https://github-profile-trophy.vercel.app/?username=minjamin-ahmmed&theme=gruvbox&no-bg=true&hide_border=true" />
+  <img  width="845" src="https://github-profile-trophy.vercel.app/?username=minjamin-ahmmed&theme=vision_friendly_dark&no-bg=true&hide_border=true" />
 
 <!-- <a href="https://gitroll.io/profile/uj4CFlj0KiRVsY6LK3AB4TIurP2C3" target="_blank"><img src="https://res.cloudinary.com/nodelove/image/upload/v1719340361/mdranju/gaznyxmbxfdvs19ebrh0.png" alt="GitRoll Profile Badge"  width="460" height="260"/></a> -->
 
