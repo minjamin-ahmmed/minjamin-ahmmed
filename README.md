@@ -41,30 +41,45 @@ I'm a passionate developer who loves building **clean**, **scalable**, and **use
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="845" 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minjamin-ahmmed&theme=github_dark" 
-       alt="Profile Details"/>
-</p>
-
-<p align="center">
-  <img height="190" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjamin-ahmmed&layout=compact&hide_border=true&title_color=ff8c00&text_color=f5f5f5&bg_color=000000&icon_color=ff8c00" 
-       alt="Top Languages"/>
-
-  <img height="190" 
-       src="https://github-readme-stats.vercel.app/api?username=minjamin-ahmmed&show_icons=true&count_private=true&hide_border=true&title_color=ff8c00&text_color=f5f5f5&bg_color=000000&icon_color=ff8c00" 
-       alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img width="845" 
-       src="https://github-profile-trophy.vercel.app/?username=minjamin-ahmmed&no-bg=true&no-frame=true&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&column=6&margin-w=10&margin-h=10&theme=monokai" 
-       alt="GitHub Trophy"/>
-</p>
-
+### 📝 Profile Summary
+<div align="center">
+  <img 
+    width="845" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minjamin-ahmmed&theme=github_dark" 
+    alt="Profile Details"
+  />
+</div>
 
 ---
+
+### 💻 Languages & Activity
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img 
+    height="190" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjamin-ahmmed&layout=compact&hide_border=true&title_color=ff8c00&text_color=f5f5f5&bg_color=000000&icon_color=ff8c00" 
+    alt="Top Languages"
+  />
+  
+  <img 
+    height="190" 
+    src="https://github-readme-stats.vercel.app/api?username=minjamin-ahmmed&show_icons=true&count_private=true&hide_border=true&title_color=ff8c00&text_color=f5f5f5&bg_color=000000&icon_color=ff8c00" 
+    alt="GitHub Stats"
+  />
+</div>
+
+---
+
+### 🏆 Achievements & Trophies
+<div align="center">
+  <img 
+    width="845" 
+    src="https://github-profile-trophy.vercel.app/?username=minjamin-ahmmed&no-bg=true&no-frame=true&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&column=6&margin-w=10&margin-h=10&theme=monokai" 
+    alt="GitHub Trophy"
+  />
+</div>
+
+---
+
 
 ## 🌍 Connect With Me
 
