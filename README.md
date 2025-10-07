@@ -69,18 +69,6 @@ I'm a passionate developer who loves building **clean**, **scalable**, and **use
 
 ---
 
-### 🏆 Achievements & Trophies
-<div align="center">
-  <img 
-    width="845" 
-    src="https://github-profile-trophy.vercel.app/?username=minjamin-ahmmed&no-bg=true&no-frame=true&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&column=6&margin-w=10&margin-h=10&theme=monokai" 
-    alt="GitHub Trophy"
-  />
-</div>
-
----
-
-
 ## 🌍 Connect With Me
 
 <p align="center">
