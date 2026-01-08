@@ -52,23 +52,6 @@ I'm a passionate developer who loves building **clean**, **scalable**, and **use
 
 ---
 
-### 💻 Languages & Activity
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img 
-    height="190" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjamin-ahmmed&layout=compact&hide_border=true&title_color=ff8c00&text_color=f5f5f5&bg_color=000000&icon_color=ff8c00" 
-    alt="Top Languages"
-  />
-  
-  <img 
-    height="190" 
-    src="https://github-readme-stats.vercel.app/api?username=minjamin-ahmmed&show_icons=true&count_private=true&hide_border=true&title_color=ff8c00&text_color=f5f5f5&bg_color=000000&icon_color=ff8c00" 
-    alt="GitHub Stats"
-  />
-</div>
-
----
-
 ## 🌍 Connect With Me
 
 <p align="center">
