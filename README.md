@@ -47,179 +47,183 @@ I'm a passionate developer who loves building <strong>clean</strong>, <strong>sc
 </p>
 
 ### 🎯 Quick Dev Snapshot
-
+javascript
 const minjamin = {
-  name: "Minjamin Ahmmed Sheefat",
-  role: "Full-Stack JavaScript Web App Developer",
-  location: "Bangladesh 🇧🇩",
-  experience: "1+ year building production apps",
-  mainStack: ["React", "Next.js", "Node.js", "Express.js", "MongoDB"],
-  learning: ["TypeScript", "System Design"],
-  interests: ["Clean architecture", "Performance", "DX & UX"],
-  motto: "Stay curious. Keep shipping. Keep improving."
+name: "Minjamin Ahmmed Sheefat",
+role: "Full-Stack JavaScript Web App Developer",
+location: "Bangladesh 🇧🇩",
+experience: "1+ year building production apps",
+mainStack: ["React", "Next.js", "Node.js", "Express.js", "MongoDB"],
+learning: ["TypeScript", "System Design"],
+interests: ["Clean architecture", "Performance", "DX & UX"],
+motto: "Stay curious. Keep shipping. Keep improving."
 };
 
 
+<br/>
 
-<br clear="both"/>
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<!-- Tech Stack Section -->
+
+<!-- Skills Section -->
 <h2>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
-<span> Tech Stack</span>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="26">
+  <span> Languages & Tools</span>
 </h2>
-<table align="center">
-<tr>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/>
-<br/><strong>JavaScript (ES6+)</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/>
-<br/><strong>TypeScript</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
-<br/><strong>React.js</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/>
-<br/><strong>Next.js</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
-<br/><strong>Node.js</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js"/>
-<br/><strong>Express.js</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
-<br/><strong>MongoDB</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma"/>
-<br/><strong>Prisma ORM</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux"/>
-<br/><strong>Redux</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=socketio" width="48" height="48" alt="Socket.IO"/>
-<br/><strong>Socket.IO</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS"/>
-<br/><strong>TailwindCSS</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="shadcn-ui"/>
-<br/><strong>shadcn/ui</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
-<br/><strong>Git</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
-<br/><strong>GitHub</strong>
-</td>
-<td align="center" width="140" height="112">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
-<br/><strong>VS Code</strong>
-</td>
-</tr>
-</table>
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/></a>
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React"/></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS"/></a>
+  <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite"/></a>
+  <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux"/></a>
+  <a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma"/></a>
+  <a href="https://socket.io/"><img src="https://skillicons.dev/icons?i=socketio" alt="Socket.IO" title="Socket.IO"/></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/></a>
+</p>
+
 <br/>
+
+<!-- Mini Services / What I Do -->
+<h3>💼 What I Love Building</h3>
+
+- ⚙️ <strong>Backend APIs</strong> with Node.js, Express.js, MongoDB & Prisma  
+- 🖥️ <strong>Frontends</strong> with React & Next.js, powered by TailwindCSS  
+- 🔁 <strong>State management</strong> with Redux for predictable, scalable apps  
+- 📡 <strong>Real-time apps</strong> using Socket.IO  
+- 🧪 <strong>Production-ready flows</strong>: auth, dashboards, CRUD, and more  
+
+<br/>
+
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<!-- GitHub Stats Section -->
-<h2>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
-<span> GitHub Analytics</span>
-</h2>
-<p align="center">
-<a href="https://github.com/minjamin-ahmmed">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=minjamin-ahmmed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjamin-ahmmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=8"/>
-</a>
+
+<!-- NOW SECTION -->
+<h2>📌 What I'm Doing Now</h2>
+
+<ul>
+  <li>🧠 Deep-diving into <strong>TypeScript</strong> and scalable <strong>System Design</strong> patterns.</li>
+  <li>🧪 Experimenting with <strong>Next.js</strong> full-stack apps and modern UI libraries.</li>
+  <li>📚 Improving my understanding of <strong>database design</strong> & <strong>API best practices</strong>.</li>
+  <li>🚀 Building side projects that solve real problems and sharpen my skills.</li>
+</ul>
+
+<br/>
+
+<!-- Projects Highlight (Linking to Portfolio) -->
+<h2>🚀 Featured Work</h2>
+
+<p>
+I’ve built real-world projects like a <strong>Link Shortener</strong>, <strong>E-Commerce APIs</strong>, and sleek <strong>React-powered websites</strong>.  
+Explore more of my work on my portfolio:
 </p>
-<!-- GitHub Streak -->
+
 <p align="center">
-<a href="https://github.com/minjamin-ahmmed">
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=minjamin-ahmmed&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakNum=ffffff&sideNums=667eea&currStreakLabel=764ba2&sideLabels=667eea&dates=888888" alt="GitHub Streak"/>
-</a>
+  <a href="https://minjamin-ahmmed.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
-<!-- Yearly Activity Graph -->
-<p align="center">
-<a href="https://github.com/minjamin-ahmmed">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=minjamin-ahmmed&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true&custom_title=Contribution%20Graph%20(Last%20Year)" alt="Contribution Graph"/>
-</a>
-</p>
-<!-- GitHub Trophies -->
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=minjamin-ahmmed&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15&row=2" alt="GitHub Trophies"/>
-</a>
-</p>
+
+<br/>
+
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- GitHub Stats -->
+<h2>📊 GitHub Stats & Activity</h2>
+
+<h3>📝 Profile Summary</h3>
+<div align="center">
+  <img
+    width="845"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minjamin-ahmmed&theme=github_dark"
+    alt="Profile Details"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=minjamin-ahmmed&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjamin-ahmmed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=minjamin-ahmmed&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- HIRE ME / COLLAB SECTION -->
+<h2>🤝 Hire Me / Let's Collaborate</h2>
+
+<p>
+I'm open to:
+</p>
+
+<ul>
+  <li>💼 <strong>Freelance / contract</strong> opportunities</li>
+  <li>🛠️ <strong>Full-stack JavaScript</strong> roles (React, Next.js, Node.js, Express.js)</li>
+  <li>🧩 <strong>Collaborations</strong> on interesting open-source or product ideas</li>
+</ul>
+
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/✉️%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/minjamin-ahmmed-sheefat/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<br/>
+
 <!-- Connect Section -->
-<h2>
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60">
-<span> Let's Connect</span>
-</h2>
+<h2>🌍 Connect With Me</h2>
+
 <p align="center">
-<a href="https://minjamin-ahmmed.vercel.app/" target="blank">
-<img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:youremail@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/minjamin-ahmmed" target="blank">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<!-- Add your real social links below when ready -->
-<!--
-<a href="https://linkedin.com/in/your-handle" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
--->
+  <a href="https://www.linkedin.com/in/minjamin-ahmmed-sheefat/" target="_blank">
+    <img alt="LinkedIn" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/sheefat_58" target="_blank">
+    <img alt="X (Twitter)" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/minjamin.ahmmed/" target="_blank">
+    <img alt="Facebook" width="35px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
+  </a>
 </p>
+
 <br/>
+
 <!-- Quote -->
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
-<!-- Support Section -->
-<h3 align="center">💜 Support My Work</h3>
-<p align="center">
-<!-- Replace with your own support link if you use one -->
-<a href="#" target="blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Support Me" height="50">
-</a>
+
+<!-- Final Note -->
+<h2>🚀 Final Note</h2>
+
+<p>
+Thanks for stopping by!  
+Stay curious, keep experimenting, and let’s keep pushing boundaries in tech.
 </p>
-<!-- Snake Animation -->
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-</p>
-<!-- Footer -->
+
+<blockquote>
+<em>“The best way to predict the future is to <strong>build it</strong>.” 💻✨</em>
+</blockquote>
+
+<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
-<p align="center">
-<img src="https://img.shields.io/badge/Made%20with-❤️-ff6b6b?style=flat-square" alt="Made with Love"/>
-<img src="https://img.shields.io/badge/From-Bangladesh%20🇧🇩-006a4e?style=flat-square" alt="From Bangladesh"/>
-</p>
-<p align="center">
-<i>⭐ Star my repos if you find them interesting!</i>
-</p>
