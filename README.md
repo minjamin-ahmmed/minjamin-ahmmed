@@ -47,7 +47,7 @@
 
 ### 🎯 Quick Facts
 ```javascript
-const mustak = {
+const sheefat = {
     pronouns: "He" | "Him",
     location: "Bangladesh 🇧🇩",
     currentFocus: "Building scalable web applications",
