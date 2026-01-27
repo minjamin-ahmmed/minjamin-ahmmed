@@ -1,7 +1,7 @@
 <!-- Hero / Header -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=Minjamin%20Ahmmed%20Sheefat&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20JavaScript%20Web%20App%20Developer&descAlignY=60&descSize=20&stroke=ffffff&strokeWidth=1" width="100%"/>
-</div>
+</div> -->
 
 <!-- Cover Banner -->
 <p align="center">
